@@ -1,0 +1,7 @@
+/Assets/TextMesh Pro/
+Library/
+Temp/
+obj/
+.vscode
+Logs
+UserSettings
